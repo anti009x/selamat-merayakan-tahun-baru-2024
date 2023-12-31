@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/baru/static/css/main.df0a56f0.css",
-    "main.js": "/baru/static/js/main.dba408e6.js",
-    "static/js/787.c8877d1a.chunk.js": "/baru/static/js/787.c8877d1a.chunk.js",
-    "static/media/anime.png": "/baru/static/media/anime.641f0c2e4bb52e4b7da0.png",
-    "index.html": "/baru/index.html",
-    "main.df0a56f0.css.map": "/baru/static/css/main.df0a56f0.css.map",
-    "main.dba408e6.js.map": "/baru/static/js/main.dba408e6.js.map",
-    "787.c8877d1a.chunk.js.map": "/baru/static/js/787.c8877d1a.chunk.js.map"
+    "main.css": "/selamat-merayakan-tahun-bagu-2024/static/css/main.df0a56f0.css",
+    "main.js": "/selamat-merayakan-tahun-bagu-2024/static/js/main.12a2bb8e.js",
+    "static/js/787.c8877d1a.chunk.js": "/selamat-merayakan-tahun-bagu-2024/static/js/787.c8877d1a.chunk.js",
+    "static/media/anime.png": "/selamat-merayakan-tahun-bagu-2024/static/media/anime.641f0c2e4bb52e4b7da0.png",
+    "index.html": "/selamat-merayakan-tahun-bagu-2024/index.html",
+    "main.df0a56f0.css.map": "/selamat-merayakan-tahun-bagu-2024/static/css/main.df0a56f0.css.map",
+    "main.12a2bb8e.js.map": "/selamat-merayakan-tahun-bagu-2024/static/js/main.12a2bb8e.js.map",
+    "787.c8877d1a.chunk.js.map": "/selamat-merayakan-tahun-bagu-2024/static/js/787.c8877d1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df0a56f0.css",
-    "static/js/main.dba408e6.js"
+    "static/js/main.12a2bb8e.js"
   ]
 }
